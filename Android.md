@@ -11,6 +11,9 @@
 7. 弹出 Dialog 的时候按 Home 键时 Activity 的生命周期
 8. 两个 Activity 之间跳转时的生命周期
 9. 下拉状态栏时 Activity 的生命周期
+
+https://blog.csdn.net/hanhan1016/article/details/47977489
+
 10. Activity 与 Fragment 之间生命周期比较？
 11. Activity 的四种 LaunchMode（启动模式）的区别？
 12. Activity 状态保存与恢复？
